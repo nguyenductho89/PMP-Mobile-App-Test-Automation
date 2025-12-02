@@ -1,0 +1,246 @@
+<mxfile host="65bd71144e">
+    <diagram name="PMP Document Relationships" id="pmp-doc-relationships">
+        <mxGraphModel dx="244" dy="117" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="1">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="title" value="MỐI LIÊN HỆ GIỮA CÁC TÀI LIỆU DỰ ÁN PMP&#10;Mobile App Test Automation với Appium" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="500" y="20" width="600" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="legend-box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="1300" y="100" width="280" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="legend-title" value="CHÚ THÍCH" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontStyle=1;fontSize=14" parent="1" vertex="1">
+                    <mxGeometry x="1380" y="110" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="legend-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="1320" y="140" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="legend-1-text" value="Tài liệu Nền tảng" style="text;html=1;strokeColor=none;fillColor=none;align=left" parent="1" vertex="1">
+                    <mxGeometry x="1350" y="140" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="legend-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="1320" y="170" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="legend-2-text" value="Kế hoạch Quản lý" style="text;html=1;strokeColor=none;fillColor=none;align=left" parent="1" vertex="1">
+                    <mxGeometry x="1350" y="170" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="legend-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+                    <mxGeometry x="1320" y="200" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="legend-3-text" value="Tài liệu Dự án" style="text;html=1;strokeColor=none;fillColor=none;align=left" parent="1" vertex="1">
+                    <mxGeometry x="1350" y="200" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="legend-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+                    <mxGeometry x="1320" y="230" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="legend-4-text" value="Ma trận &amp; Metrics" style="text;html=1;strokeColor=none;fillColor=none;align=left" parent="1" vertex="1">
+                    <mxGeometry x="1350" y="230" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="group-01" value="01_PROJECT_MANAGEMENT_PLAN" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="120" width="280" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="doc-charter" value="📋 Project Charter" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="group-01" vertex="1">
+                    <mxGeometry y="30" width="280" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="doc-business" value="💼 Business Case" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="group-01" vertex="1">
+                    <mxGeometry y="70" width="280" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="doc-pmp" value="📊 Project Management Plan" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1" parent="group-01" vertex="1">
+                    <mxGeometry y="110" width="280" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="group-02" value="02_MANAGEMENT_PLANS" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="320" width="280" height="520" as="geometry"/>
+                </mxCell>
+                <mxCell id="doc-scope" value="📐 Scope Management Plan" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="group-02" vertex="1">
+                    <mxGeometry y="30" width="280" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="doc-req" value="📝 Requirements Management Plan" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="group-02" vertex="1">
+                    <mxGeometry y="65" width="280" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="doc-schedule" value="📅 Schedule Management Plan" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="group-02" vertex="1">
+                    <mxGeometry y="100" width="280" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="doc-cost" value="💰 Cost Management Plan" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="group-02" vertex="1">
+                    <mxGeometry y="135" width="280" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="doc-quality" value="✅ Quality Management Plan" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="group-02" vertex="1">
+                    <mxGeometry y="170" width="280" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="doc-resource" value="👥 Resource Management Plan" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="group-02" vertex="1">
+                    <mxGeometry y="205" width="280" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="doc-comm" value="📣 Communications Management Plan" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="group-02" vertex="1">
+                    <mxGeometry y="240" width="280" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="doc-risk" value="⚠️ Risk Management Plan" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="group-02" vertex="1">
+                    <mxGeometry y="275" width="280" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="doc-procure" value="🛒 Procurement Management Plan" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="group-02" vertex="1">
+                    <mxGeometry y="310" width="280" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="doc-stakeholder" value="🤝 Stakeholder Engagement Plan" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="group-02" vertex="1">
+                    <mxGeometry y="345" width="280" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="doc-change" value="🔄 Change Management Plan" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="group-02" vertex="1">
+                    <mxGeometry y="380" width="280" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="doc-config" value="⚙️ Configuration Management Plan" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="group-02" vertex="1">
+                    <mxGeometry y="415" width="280" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="group-03" value="03_PROJECT_DOCUMENTS" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="120" width="280" height="520" as="geometry"/>
+                </mxCell>
+                <mxCell id="doc-wbs" value="📊 Work Breakdown Structure" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="group-03" vertex="1">
+                    <mxGeometry y="30" width="280" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="doc-wbsdict" value="📖 WBS Dictionary" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="group-03" vertex="1">
+                    <mxGeometry y="65" width="280" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="doc-projschedule" value="📅 Project Schedule" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="group-03" vertex="1">
+                    <mxGeometry y="100" width="280" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="doc-riskreg" value="⚠️ Risk Register" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="group-03" vertex="1">
+                    <mxGeometry y="135" width="280" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="doc-stakeholderreg" value="👥 Stakeholder Register" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="group-03" vertex="1">
+                    <mxGeometry y="170" width="280" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="doc-assumption" value="💭 Assumption Log" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="group-03" vertex="1">
+                    <mxGeometry y="205" width="280" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="doc-issue" value="❗ Issue Log" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="group-03" vertex="1">
+                    <mxGeometry y="240" width="280" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="doc-lessons" value="📚 Lessons Learned Register" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="group-03" vertex="1">
+                    <mxGeometry y="275" width="280" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="doc-changereq" value="🔄 Change Request Log" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="group-03" vertex="1">
+                    <mxGeometry y="310" width="280" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="doc-decision" value="✅ Decision Log" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="group-03" vertex="1">
+                    <mxGeometry y="345" width="280" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="doc-meeting" value="📝 Meeting Minutes Template" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="group-03" vertex="1">
+                    <mxGeometry y="380" width="280" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="doc-status" value="📊 Project Status Report Template" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="group-03" vertex="1">
+                    <mxGeometry y="415" width="280" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="doc-milestone" value="🏆 Milestone Acceptance Form" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="group-03" vertex="1">
+                    <mxGeometry y="450" width="280" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="group-04" value="04_MATRICES_AND_METRICS" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+                    <mxGeometry x="1000" y="120" width="280" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="doc-raci" value="📋 RACI Matrix" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="group-04" vertex="1">
+                    <mxGeometry y="30" width="280" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="doc-commmatrix" value="📣 Communication Matrix" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="group-04" vertex="1">
+                    <mxGeometry y="65" width="280" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="doc-qualitymetrics" value="📊 Quality Metrics" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="group-04" vertex="1">
+                    <mxGeometry y="100" width="280" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="doc-trace" value="🔗 Traceability Matrix" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="group-04" vertex="1">
+                    <mxGeometry y="135" width="280" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="arrow1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0066CC;strokeWidth=2;endArrow=classic;" parent="1" source="doc-charter" target="doc-pmp" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="arrow2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0066CC;strokeWidth=2;endArrow=classic;" parent="1" source="doc-business" target="doc-pmp" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="arrow3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#009900;strokeWidth=2;endArrow=classic;entryX=0;entryY=0.5;" parent="1" source="doc-pmp" target="group-02" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="350" y="400" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="arrow4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC6600;strokeWidth=2;endArrow=classic;" parent="1" source="doc-scope" target="doc-wbs" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="arrow5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC6600;strokeWidth=2;endArrow=classic;" parent="1" source="doc-wbs" target="doc-wbsdict" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="arrow6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC6600;strokeWidth=2;endArrow=classic;" parent="1" source="doc-schedule" target="doc-projschedule" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="arrow7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC6600;strokeWidth=2;endArrow=classic;" parent="1" source="doc-risk" target="doc-riskreg" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="arrow8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC6600;strokeWidth=2;endArrow=classic;" parent="1" source="doc-stakeholder" target="doc-stakeholderreg" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="arrow9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC6600;strokeWidth=2;endArrow=classic;" parent="1" source="doc-change" target="doc-changereq" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="arrow10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#9933FF;strokeWidth=2;endArrow=classic;" parent="1" source="doc-resource" target="doc-raci" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="arrow11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#9933FF;strokeWidth=2;endArrow=classic;" parent="1" source="doc-comm" target="doc-commmatrix" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="arrow12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#9933FF;strokeWidth=2;endArrow=classic;" parent="1" source="doc-quality" target="doc-qualitymetrics" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="arrow13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#9933FF;strokeWidth=2;endArrow=classic;" parent="1" source="doc-req" target="doc-trace" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="arrow14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;strokeWidth=2;endArrow=classic;startArrow=classic;" parent="1" source="doc-riskreg" target="doc-issue" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="arrow15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;strokeWidth=2;endArrow=classic;startArrow=classic;" parent="1" source="doc-riskreg" target="doc-assumption" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="flow-box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                    <mxGeometry x="1000" y="360" width="280" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="flow-title" value="LUỒNG CẬP NHẬT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontStyle=1;fontSize=14" parent="1" vertex="1">
+                    <mxGeometry x="1070" y="370" width="140" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="flow-content" value="1. Khi có CHANGE REQUEST:&#10;   → Change Request Log&#10;   → Scope/Schedule/Cost Plans&#10;   → WBS, Schedule&#10;&#10;2. Khi có NEW RISK:&#10;   → Risk Register&#10;   → Risk Management Plan&#10;&#10;3. Khi có ISSUE:&#10;   → Issue Log&#10;   → Risk Register (nếu từ risk)&#10;&#10;4. Khi MILESTONE hoàn thành:&#10;   → Milestone Acceptance Form&#10;   → Lessons Learned&#10;   → Status Report" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=10;fontSize=11" parent="1" vertex="1">
+                    <mxGeometry x="1010" y="400" width="260" height="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="readme-hub" value="README.md&#10;(Navigation Hub)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontSize=12" parent="1" vertex="1">
+                    <mxGeometry x="400" y="860" width="200" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="guide-box" value="05_GUIDES&#10;Document_Update_Guide.md" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="660" y="870" width="200" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="readme-conn1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#666666;strokeWidth=1;dashed=1;endArrow=classic;" parent="1" source="readme-hub" target="group-01" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="readme-conn2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#666666;strokeWidth=1;dashed=1;endArrow=classic;" parent="1" source="readme-hub" target="group-02" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="readme-conn3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#666666;strokeWidth=1;dashed=1;endArrow=classic;" parent="1" source="readme-hub" target="group-03" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="readme-conn4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#666666;strokeWidth=1;dashed=1;endArrow=classic;" parent="1" source="readme-hub" target="group-04" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="arrow-legend" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="1000" y="660" width="280" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="arrow-legend-title" value="CHÚ THÍCH MŨI TÊN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontStyle=1;fontSize=12" parent="1" vertex="1">
+                    <mxGeometry x="1070" y="670" width="140" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="arrow-leg1" value="→ Cung cấp input cho" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=10;fontColor=#0066CC" parent="1" vertex="1">
+                    <mxGeometry x="1020" y="700" width="150" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="arrow-leg2" value="→ Định nghĩa chi tiết" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=10;fontColor=#CC6600" parent="1" vertex="1">
+                    <mxGeometry x="1020" y="725" width="150" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="arrow-leg3" value="→ Cung cấp metrics" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=10;fontColor=#9933FF" parent="1" vertex="1">
+                    <mxGeometry x="1020" y="750" width="150" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="arrow-leg4" value="↔ Liên kết hai chiều" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=10;fontColor=#FF0000" parent="1" vertex="1">
+                    <mxGeometry x="1020" y="775" width="150" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="footer" value="Dự án: PRJ-2025-APPIUM-001 | Ngày tạo: 02/12/2025 | Version: 1.0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=10;fontColor=#666666" parent="1" vertex="1">
+                    <mxGeometry x="500" y="960" width="400" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

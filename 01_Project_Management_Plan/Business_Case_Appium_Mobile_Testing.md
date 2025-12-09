@@ -8,9 +8,9 @@
 | Thông tin | Chi tiết |
 |-----------|----------|
 | **Tên dự án** | Mobile App Test Automation với Appium |
-| **Ngày tạo** | [DD/MM/YYYY] |
-| **Người lập** | [Tên] - [Chức vụ] |
-| **Phiên bản** | 1.0 |
+| **Ngày tạo** | 09/12/2025 |
+| **Người lập** | Project Manager |
+| **Phiên bản** | 1.1 |
 | **Trạng thái** | Draft / Submitted / Approved |
 
 ---
@@ -470,9 +470,10 @@ _________________________________________________
 
 | Version | Ngày | Người thay đổi | Mô tả |
 |---------|------|----------------|-------|
-| 0.1 | [DD/MM/YYYY] | [Tên] | Draft đầu tiên |
-| 0.2 | [DD/MM/YYYY] | [Tên] | Cập nhật financial analysis |
-| 1.0 | [DD/MM/YYYY] | [Tên] | Final version for approval |
+| 0.1 | 01/12/2025 | Project Manager | Draft đầu tiên |
+| 0.2 | 02/12/2025 | Project Manager | Cập nhật financial analysis |
+| 1.0 | 02/12/2025 | Project Manager | Final version for approval |
+| 1.1 | 09/12/2025 | Project Manager | Cập nhật thông tin |
 
 ---
 

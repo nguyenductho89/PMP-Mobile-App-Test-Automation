@@ -37,7 +37,7 @@
 | Thông tin | Chi tiết |
 |-----------|----------|
 | **Tên dự án** | Mobile App Test Automation với Appium |
-| **Mã dự án** | PRJ-2024-APPIUM-001 |
+| **Mã dự án** | PRJ-2025-APPIUM-001 |
 | **Ngày tạo** | [DD/MM/YYYY] |
 | **Phiên bản** | 1.0 |
 

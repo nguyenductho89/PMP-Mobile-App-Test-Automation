@@ -38,7 +38,7 @@
 | Thông tin | Chi tiết |
 |-----------|----------|
 | **Tên dự án** | Mobile App Test Automation với Appium |
-| **Mã dự án** | PRJ-2024-APPIUM-001 |
+| **Mã dự án** | PRJ-2025-APPIUM-001 |
 | **Thời gian dự án** | 18 tuần |
 | **Methodology** | Agile/Scrum (2-week sprints) |
 | **Ngày bắt đầu** | [DD/MM/YYYY] |

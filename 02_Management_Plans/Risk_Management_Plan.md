@@ -39,9 +39,9 @@
 | Thông tin | Chi tiết |
 |-----------|----------|
 | **Tên dự án** | Mobile App Test Automation với Appium |
-| **Mã dự án** | PRJ-2024-APPIUM-001 |
-| **Ngày tạo** | [DD/MM/YYYY] |
-| **Phiên bản** | 1.0 |
+| **Mã dự án** | PRJ-2025-APPIUM-001 |
+| **Ngày tạo** | 09/12/2025 |
+| **Phiên bản** | 1.1 |
 
 ---
 
@@ -395,7 +395,8 @@
 
 | Version | Ngày | Người thay đổi | Mô tả thay đổi |
 |---------|------|----------------|----------------|
-| 1.0 | [DD/MM/YYYY] | [Tên] | Khởi tạo document |
+| 1.0 | 02/12/2025 | Project Manager | Khởi tạo document |
+| 1.1 | 09/12/2025 | Project Manager | Cập nhật mã dự án |
 
 ---
 

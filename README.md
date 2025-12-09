@@ -355,7 +355,14 @@
 
 ---
 
-**Phiên bản:** 1.1
-**Ngày cập nhật:** 02/12/2025
+**Phiên bản:** 1.2
+**Ngày cập nhật:** 09/12/2025
 **Người cập nhật:** Project Manager
+
+### Lịch sử cập nhật:
+| Phiên bản | Ngày | Mô tả |
+|-----------|------|-------|
+| 1.0 | 02/12/2025 | Khởi tạo bộ tài liệu |
+| 1.1 | 02/12/2025 | Bổ sung guides và diagrams |
+| 1.2 | 09/12/2025 | Cập nhật mã dự án và đồng bộ tất cả tài liệu |
 
